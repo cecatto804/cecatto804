@@ -3,50 +3,29 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcelo Cecatto, tenho 23 anos e sou natural do São Paulo. Concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu instagram, com o perfil chamado "https://www.instagram.com/ceecattoo/".
+Olá, tudo bem? Me chamo Marcelo Cecatto, tenho 24 anos e sou natural de São Paulo, concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
 
 <p align="left">
-  
-   
-    
+  👨‍💻 Estudante de Desenvolvimento Web
 </p>
+
+## 🚀 Sobre mim
+
+- 👨‍💻 Apaixonado por tecnologia e desenvolvimento web  
+- 📚 Estudando e praticando **JavaScript, TypeScript, HTML e Node.js**  
+- 🔍 Focado em backend e construção de APIs  
+- 🎯 Buscando evoluir diariamente e contribuir com projetos open-source  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<br/>
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFF" />
+</p>
 
